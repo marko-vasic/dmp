@@ -3,8 +3,8 @@
 ## Overview
 Project allows training chemical networks using deep learning. It
 trains a neural network and translates it to an equivalent chemical
-network based on the tight connection between the two models of
-computation that we established.
+network. This is done based on the tight connection, between chemical
+and neural models of computation, that we discovered.
 
 Two publications are result of this project: 
 
