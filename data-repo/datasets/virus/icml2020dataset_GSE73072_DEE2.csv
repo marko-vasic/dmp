@@ -1,0 +1,18 @@
+subject,sham:1; otherwise: 0,Symptomatic: 1; Asymptomatic: 0,Infected: 1; Uninfected: 0,infection onset time (hr),infection offset time (hr)
+1,0,1,1,24,192
+2,0,0,1,120,192
+3,0,0,0,NaN,NaN
+4,0,0,1,96,192
+5,0,1,1,48,192
+6,0,1,1,24,192
+7,0,1,1,48,192
+8,0,1,1,48,96
+9,0,0,0,NaN,NaN
+10,0,1,1,72,144
+11,0,0,0,NaN,NaN
+12,0,1,1,48,192
+13,0,1,1,48,120
+14,0,0,0,NaN,NaN
+15,0,1,1,96,168
+16,0,0,0,NaN,NaN
+17,0,0,0,NaN,NaN
