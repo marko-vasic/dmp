@@ -82,7 +82,7 @@ Our **YouTube Presentations** of associated papers:
   file. We are working on translating model files to a new, more
   portable format.
 
-## Ackwnoledgments
+## Acknowledgments
 Some of the graphics in pattern formation dataset
 ([data-repo/datasets/pattern_formation/graphics](https://github.com/marko-vasic/dmp/tree/main/data-repo/datasets/pattern_formation/graphics))
 are created by [Joseph Wain](http://penandthink.com) and licensed
