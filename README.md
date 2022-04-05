@@ -9,14 +9,14 @@ and neural models of computation, that we discovered.
 Two publications are result of this project: 
 
 ```
-@article{vasicETAL22TrainingCRNs,
+@article{pnas22TrainingCRNs,
   title = {Programming and Training Rate-Independent Chemical Reaction Networks},
   author = {Vasic, Marko and Chalk, Cameron and Luchsinger, Austin and Khurshid, Sarfraz and Soloveichik, David},
   journal = {Proceedings of the National Academy of Sciences},
   year = {2022}
 }
 
-@inproceedings{vasicETAL20DeepMolecularProgramming,
+@inproceedings{icml20DeepMolecularProgramming,
   title={{D}eep {M}olecular {P}rogramming: {A} {N}atural {I}mplementation of {B}inary-{W}eight {R}e{L}{U} {N}eural {N}etworks},
   author = {Vasic, Marko and Chalk, Cameron and Khurshid, Sarfraz and Soloveichik, David},
   booktitle = {International Conference on Machine Learning},
